@@ -1,3 +1,5 @@
+![CTO.LA](./banner.png)
+
 # CTO.LA
 
 Los Angeles fractional CTO practice, founded in 2025. A small senior team working with AI tools; people review the work.
